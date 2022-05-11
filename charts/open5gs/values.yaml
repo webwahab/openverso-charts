@@ -104,7 +104,7 @@ mme:
     plmn_id:
       mcc: 999
       mnc: 70
-    tac: 1
+    tac: 7
 
   externalService:
     enabled: false
